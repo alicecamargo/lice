@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lilice523
-- 👀 I’m interested in python, html, css, web developer.
+- 👀 I’m interested in Python, HTML, CSS, Web developer and JavaScript
 - 🌱 I’m currently learning Java and Poo.
 - 💞️ I’m looking to collaborate on Web development
 
