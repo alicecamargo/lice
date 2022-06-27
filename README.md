@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lilice523
+- 👋 Hi, I’m @alicecamargo
 - 👀 I’m interested in Python, HTML, CSS, Web developer and JavaScript
-- 🌱 I’m currently learning Java and Poo.
+- 🌱 I’m currently learning Java and React.
 - 💞️ I’m looking to collaborate on Web development
 
 <!---
