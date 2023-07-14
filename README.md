@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicecamargo
-- 👀 I’m interested in Python, HTML, CSS, Web developer and JavaScript
-- 🌱 I’m currently learning Java and React.
+- 👀 I’m interested in Python, Web developer and JavaScript
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on Web development
 
 <!---
